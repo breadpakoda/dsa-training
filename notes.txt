@@ -1,0 +1,48 @@
+Bitwise and(&)
+
+a   b  answer
+1   1   1
+1   0   0
+0   1   0
+0   0   0
+
+
+
+Bitwise or
+
+a   b   answer
+1   1   1
+1   0   0
+0   0   0
+0   1   0
+
+
+Bitwise xor
+
+a   b    anwer
+1   1   0
+1   0   1
+0   1   1
+0   0   0
+
+
+Bitwise not
+
+a   ~a
+1   0
+0   1
+
+
+
+
+Datatypes
+1. Primitive-  Build in datatypes
+    a. Non numeric-  char, boolean, 
+    b. Numeric- int ,short, long, float, byte, double.
+2. Non Primitive- Made using the primitive datatypes according to our own need.
+
+
+
+Types of loop:
+    a. Entry controle loop- for loop and while loop
+    b. Exit controle loop- do while loop
